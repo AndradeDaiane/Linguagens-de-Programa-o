@@ -1,2 +1,2 @@
 # Linguagens-de-Programa-o
-ProjectsFaculdade
+Projects da Faculdade
